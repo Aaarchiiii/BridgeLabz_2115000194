@@ -28,4 +28,18 @@
 13. Solved problem to find the side of a square from perimeter.
 14. Solved problem to find the distance in yards and miles.
 15. Solved problem to calculate the total price.
-16. Solved problem to find the maximum number of possible handshakes
+16. Solved problem to find the maximum number of possible handshakes.
+
+(22-01-25)(level 2)
+1. Solved problem to find the quotient and remainder by taking two numbers from user.
+2. Solved problem of IntOperation and understands the precedence of the operators.
+3. Solved problem of DoubleOpt and understands the precedence of the operators.
+4. Solved problem to convert temperature from celsius to fahrenheit.
+5. Solved problem to convert temperature from fahrenheit to celsius.
+6. Solved problem to find the total income by taking salary and bonus from user.
+7. Solved problem to swap two numbers.
+8. Solved problem of travel computation.
+9. Solved problem to find the number of rounds.
+10. Solved problem to divide N chocolates among M children.
+11. Solved problem to calculate simple interest.
+12. Solved problem to convert weight in pounds to kilograms.
