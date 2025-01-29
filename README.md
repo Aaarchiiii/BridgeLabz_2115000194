@@ -13,3 +13,6 @@ Learned and performed the programs based on the arrays.
 
 (28-01-25)
 Learned and performed the programs based on the methods to create.
+
+(29-01-25)
+Learned and performed the programs based on the strings.
