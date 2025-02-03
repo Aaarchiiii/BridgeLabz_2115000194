@@ -22,3 +22,6 @@ Learned and performed the programs based on the basics to make constructor and m
 
 (01-02-25)
 Learned and performed the programs based on the basics to make constructors, instance variables, class variables and access modifiers.
+
+(04-02-25)
+Learned and performed the programs based on the basics to make use of static, final and instanceof keyword.
