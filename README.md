@@ -28,3 +28,6 @@ Learned and performed the programs based on the basics to make use of static, fi
 
 (06-02-25)
 Learned and performed the programs based on the class diagrams, object diagram, sequence diagram, association, aggregation like Library Management, Bank Management, University Management, Hospital Management and so on.
+
+(07-02-25)
+Learned and performed the programs based on single inheritance, multilevel inheritance, Hierarchical inheritance, hybrid inheritance.
