@@ -31,3 +31,6 @@ Learned and performed the programs based on the class diagrams, object diagram, 
 
 (07-02-25)
 Learned and performed the programs based on single inheritance, multilevel inheritance, Hierarchical inheritance, hybrid inheritance.
+
+(10-02-25)
+Learned and performed the programs based on interface, encapsulation, abstract classes, polymorphism like Employee Management System, Vehicle Rental System, ECommerce Platform, Banking System, Library Management System, Online Food Delivery System and so on.
