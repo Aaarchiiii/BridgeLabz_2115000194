@@ -34,3 +34,6 @@ Learned and performed the programs based on single inheritance, multilevel inher
 
 (10-02-25)
 Learned and performed the programs based on interface, encapsulation, abstract classes, polymorphism like Employee Management System, Vehicle Rental System, ECommerce Platform, Banking System, Library Management System, Online Food Delivery System and so on.
+
+(11-02-25)
+Learned and performed the programs based on the singly linked list, doubly linked list, circular linked list. 
