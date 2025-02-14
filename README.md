@@ -40,3 +40,6 @@ Learned and performed the programs based on the singly linked list, doubly linke
 
 (13-02-25)
 Learned and performed the programs based on the stack, queue, hash map and hash set.
+
+(14-02-25)
+Learned and performed the programs based on the sorting algorithms like bubble sort, insertion sort, selection sort, merge sort, quick sort, heap sort and counting sort.
