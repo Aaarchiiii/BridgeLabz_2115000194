@@ -43,3 +43,6 @@ Learned and performed the programs based on the stack, queue, hash map and hash 
 
 (14-02-25)
 Learned and performed the programs based on the sorting algorithms like bubble sort, insertion sort, selection sort, merge sort, quick sort, heap sort and counting sort.
+
+(15-02-25)
+Learned and performed the programs based on the string buffer, string builder, File reader, Input Stream Reader, Linear Search and Binary Search.
