@@ -46,3 +46,6 @@ Learned and performed the programs based on the sorting algorithms like bubble s
 
 (15-02-25)
 Learned and performed the programs based on the string buffer, string builder, File reader, Input Stream Reader, Linear Search and Binary Search.
+
+(17-02-25)
+Learned and performed the programs based on the Runtime Analysis and Big O Notation like compare the performance of linear search and binary search, compare sorting algorithms (bubble sort, merge sort, quick sort), compare the performance of string, string builder and string buffer and so on. 
