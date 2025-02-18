@@ -49,3 +49,6 @@ Learned and performed the programs based on the string buffer, string builder, F
 
 (17-02-25)
 Learned and performed the programs based on the Runtime Analysis and Big O Notation like compare the performance of linear search and binary search, compare sorting algorithms (bubble sort, merge sort, quick sort), compare the performance of string, string builder and string buffer and so on. 
+
+(18-02-25)
+Learned and performed the programs based on Generics like Smart warehouse management system, Dynamic online marketplace, Multi-Level University course management system, Personalized meal plan generator and AI driven resume screening system. 
