@@ -52,3 +52,6 @@ Learned and performed the programs based on the Runtime Analysis and Big O Notat
 
 (18-02-25)
 Learned and performed the programs based on Generics like Smart warehouse management system, Dynamic online marketplace, Multi-Level University course management system, Personalized meal plan generator and AI driven resume screening system. 
+
+(19-02-25)
+Learned and performed the programs based on List Interface, Set Interface, Queue Interface, Map Interface.
