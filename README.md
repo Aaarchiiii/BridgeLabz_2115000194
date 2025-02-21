@@ -58,3 +58,6 @@ Learned and performed the programs based on List Interface, Set Interface, Queue
 
 (20-02-25)
 Learned and performed the programs based on Streams like File handling, Buffered Streams, Read User Input from Console, Serialization, ByteArray Stream, Filter Streams, Data Steams, Piped Streams, Count words.
+
+(21-02-25)
+Learned and performed the programs based on Checked Exception, Unchecked Exception, Custom Exception, Multiple Catch Blocks, Try With Resources, Throw vs Throws, Finally Block Evaluation, Exception Propagation in methods, Nested try-catch block and Bank Transaction System.
