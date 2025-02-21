@@ -55,3 +55,6 @@ Learned and performed the programs based on Generics like Smart warehouse manage
 
 (19-02-25)
 Learned and performed the programs based on List Interface, Set Interface, Queue Interface, Map Interface.
+
+(20-02-25)
+Learned and performed the programs based on Streams like File handling, Buffered Streams, Read User Input from Console, Serialization, ByteArray Stream, Filter Streams, Data Steams, Piped Streams, Count words.
