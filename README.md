@@ -61,3 +61,6 @@ Learned and performed the programs based on Streams like File handling, Buffered
 
 (21-02-25)
 Learned and performed the programs based on Checked Exception, Unchecked Exception, Custom Exception, Multiple Catch Blocks, Try With Resources, Throw vs Throws, Finally Block Evaluation, Exception Propagation in methods, Nested try-catch block and Bank Transaction System.
+
+(22-02-25)
+Learned and performed the programs based on Regex and JUnit.
