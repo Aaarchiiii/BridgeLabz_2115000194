@@ -64,3 +64,6 @@ Learned and performed the programs based on Checked Exception, Unchecked Excepti
 
 (22-02-25)
 Learned and performed the programs based on Regex and JUnit.
+
+(24-02-25)
+Learned and performed the programs based on Annotations and Reflection.
