@@ -70,3 +70,6 @@ Learned and performed the programs based on Annotations and Reflection.
 
 (25-02-25)
 Learned and performed the programs based on CSV File handling.
+
+(26-02-25)
+Learned and performed the programs based on JSON Data.
